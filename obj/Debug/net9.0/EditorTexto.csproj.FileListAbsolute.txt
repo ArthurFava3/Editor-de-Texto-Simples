@@ -1,0 +1,14 @@
+C:\Users\TeuHomeMataTu\EditorTexto\bin\Debug\net9.0\EditorTexto.exe
+C:\Users\TeuHomeMataTu\EditorTexto\bin\Debug\net9.0\EditorTexto.deps.json
+C:\Users\TeuHomeMataTu\EditorTexto\bin\Debug\net9.0\EditorTexto.runtimeconfig.json
+C:\Users\TeuHomeMataTu\EditorTexto\bin\Debug\net9.0\EditorTexto.dll
+C:\Users\TeuHomeMataTu\EditorTexto\bin\Debug\net9.0\EditorTexto.pdb
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.AssemblyInfo.cs
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.dll
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\refint\EditorTexto.dll
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.pdb
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\EditorTexto.genruntimeconfig.cache
+C:\Users\TeuHomeMataTu\EditorTexto\obj\Debug\net9.0\ref\EditorTexto.dll
