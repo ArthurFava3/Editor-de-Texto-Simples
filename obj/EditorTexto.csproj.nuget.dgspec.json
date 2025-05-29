@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TeuHomeMataTu\\EditorTexto\\EditorTexto.csproj": {}
+    "C:\\Users\\TeuHomeMataTu\\baltaio\\EditorTexto\\EditorTexto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TeuHomeMataTu\\EditorTexto\\EditorTexto.csproj": {
+    "C:\\Users\\TeuHomeMataTu\\baltaio\\EditorTexto\\EditorTexto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TeuHomeMataTu\\EditorTexto\\EditorTexto.csproj",
+        "projectUniqueName": "C:\\Users\\TeuHomeMataTu\\baltaio\\EditorTexto\\EditorTexto.csproj",
         "projectName": "EditorTexto",
-        "projectPath": "C:\\Users\\TeuHomeMataTu\\EditorTexto\\EditorTexto.csproj",
+        "projectPath": "C:\\Users\\TeuHomeMataTu\\baltaio\\EditorTexto\\EditorTexto.csproj",
         "packagesPath": "C:\\Users\\TeuHomeMataTu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TeuHomeMataTu\\EditorTexto\\obj\\",
+        "outputPath": "C:\\Users\\TeuHomeMataTu\\baltaio\\EditorTexto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

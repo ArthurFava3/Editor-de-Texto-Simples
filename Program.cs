@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Security.Policy;
 using System.IO;
+using System.Text;
 
 namespace EditorDeTexto {
     class Program {
@@ -67,20 +68,24 @@ namespace EditorDeTexto {
 
             Console.WriteLine("Digite seu texto:  (ESC para sair)");
             Console.WriteLine("----------------------------------");
-            string texto = "";
+            var texto = new StringBuilder();
 
             // Enquanto o usuario não apertar o ESC não sai.
             do {
-                texto += Console.ReadLine(); // O que ja tem no texto mais o que o usuario digitou
-                texto += Environment.NewLine; // Quebrando a linha no final de cada execução
-            } while(Console.ReadKey().Key != ConsoleKey.Escape);
+                if(Console.ReadKey().Key == ConsoleKey.Escape)
+                    break;
+                texto.Append(Console.ReadLine()); // O que ja tem no texto mais o que o usuario digitou
+                texto.Append(Environment.NewLine); // Quebrando a linha no final de cada execução
+                //texto += Console.ReadLine(); // O que ja tem no texto mais o que o usuario digitou
+                //texto += Environment.NewLine; // Quebrando a linha no final de cada execução
+            } while(true);
             // Console.ReadKey().Key espera um tecla e informa qual foi pressionada; (.Key): Retorna uma enumeração ConsoleKey que representa a tecla que foi pressionada.
 
             SalvarArquivo(texto);
             
         }
 
-        static void SalvarArquivo(string texto) {
+        static void SalvarArquivo(StringBuilder texto) {
 
             Console.Clear();
 
